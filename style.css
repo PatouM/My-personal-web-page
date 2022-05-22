@@ -135,6 +135,7 @@ p {
 .text-box h1 {
   font-size: 30px;
   margin-top: 60px;
+  margin-bottom: 15px;
 }
 
 .text-box p {
@@ -148,9 +149,8 @@ p {
   border-radius: 50%;
   width: 10%;
   height: 10%;
-  padding: 5px;
-  margin: 5px;
 }
+
 
 /* End Header */
 
