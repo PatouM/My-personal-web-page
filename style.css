@@ -334,18 +334,11 @@ p {
   min-height: 20vh;
 }
 
-#footer h2 {
-  color: #fff;
-  font-weight: 500;
-  font-size: 1.8rem;
-  letter-spacing: .1rem;
-  padding-top: 50px;
-}
-
 .social-icon {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  padding-top: 100px;
 }
 
 .social-item {
